@@ -1,0 +1,182 @@
+*{
+    font-family: "Poetsen One", sans-serif;
+    margin:auto;
+    padding:0px;
+    /* color: rgb(154, 113, 10); */
+}
+
+nav{
+    display:flex;
+    justify-content: space-between;
+    background-color:chocolate;
+    color:white;
+}
+.lilist{
+    display:inline;
+    padding:40px;
+
+}
+/* #section-color{
+    background-color: black;
+} */
+#namebrand{
+margin-left: 10px;
+}
+#chocoh1{
+    font-size:30px;
+    font-weight: bold;
+    font-family: "Sevillana", cursive;
+}
+.linkhead{
+    color: white;
+    text-decoration: none;
+}
+.linkhead:hover{
+    color:black;
+    text-decoration: underline;
+}
+.home-img{
+    width: 100%;
+    height:550px;
+}
+#name-sweet{
+    text-align: center;
+    padding: 15px;
+    margin-top: 40px;
+}
+
+#sweet-h2
+{
+    font-size: 40px;
+    color: chocolate;
+}
+
+#sweet-contents{
+    display:grid;
+    grid-template-columns: auto auto auto;
+    margin: auto;
+    text-align: center;
+    margin-top: 50px;
+}
+.sweet-img{
+    padding: 20px;
+    margin-left: 20px;
+}
+#sweet1{
+    width:250px;
+    height:250px;
+
+}
+#sweet2{
+    width:300px;
+    height: 300px;
+}
+#sweet3{
+    width:350px ;
+    height: 350px;
+}
+#cake-name{
+    font-size: 40px;
+    color: chocolate;
+}
+#name-cake{
+    display:grid;
+    grid-template-rows: auto auto auto auto;
+    /* padding:50px; */
+}
+#cake-head{
+    margin-bottom: 15px;
+    text-align: center;
+}
+#cake-img{
+    margin-top:30px ;
+}
+.cake-img1{
+    text-align: center;
+    padding: 10px;
+}
+#cake1{
+    width:500px;
+    height:300px;
+}
+#cake-head2{
+    display:grid;
+    grid-template-columns:auto auto;
+}
+.cake-img2
+{
+padding: 20px;
+}
+#flower-name{
+    font-size: 40px;
+    color: chocolate;
+}
+#flower-head{
+    display: grid;
+    grid-template-rows:auto auto ;
+}
+.flower{
+    padding: 10px;
+}
+#flower-head2{
+    display:grid;
+    grid-template-columns: auto auto;
+    text-align: center;
+    /* padding: 10px; */
+}
+#img1-flower{
+    width:500px;
+    height:400px;
+}
+.head2-second{
+    padding:40px;
+    margin-left: 20px;
+}
+.display-head2{
+    padding:30px;
+}
+#about-img{
+    width:500px;
+    height:400px;
+}
+#section3{
+    display: grid;
+    grid-template-rows: auto auto;
+    text-align: center;
+    /* padding:15px; */
+}
+#head-about{
+    font-size: 40px;
+    color: chocolate;
+}
+#content-paragraph{
+    color: chocolate;
+}
+.about-note{
+    padding: 15px;
+}
+#about-content{
+    display: grid;
+    grid-template-columns: auto auto;
+    text-align:center ;
+    
+}
+#content-paragraph{
+    text-align: justify;
+}
+.about-section-note{
+    padding: 10px;
+    text-align: center;
+}
+#note-about{
+    margin-left: 20px;
+}
+#footer{
+    display:grid;
+    grid-template-columns: auto auto auto;
+    background-color:chocolate;
+    /* justify-content: center; */
+    color:white;
+    height:250px;
+    width:100%;
+}
